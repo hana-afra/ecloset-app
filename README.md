@@ -1,6 +1,6 @@
 ## Video Overview
 
-[![Watch the video](https://github.com/himIbraa/DoctoGuide/raw/main/imagee.png](https://youtu.be/vonObQ5mecI?feature=shared)
+[![Watch the video](https://github.com/hana-afra/ecloset-app/raw/main/imagee.png](https://youtu.be/vonObQ5mecI?feature=shared)
 
 
 # Software Components
