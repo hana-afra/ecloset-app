@@ -1,4 +1,4 @@
-## Video Overview
+## Video Overview (click the picture to see the demo)
 
 [![Watch the video](https://github.com/hana-afra/ecloset-app/raw/main/imagee.png)](https://youtu.be/vonObQ5mecI?feature=shared)
 
