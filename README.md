@@ -1,6 +1,8 @@
 ## Video Overview (click the picture to see the demo)
 
-[![Watch the video](https://github.com/hana-afra/ecloset-app/raw/main/imagee.png)]([https://youtu.be/vonObQ5mecI?feature=shared](https://drive.google.com/file/d/1Nv-cbTG_EiWGnLlQCqOM_N3WPmZsHlbH/view?usp=sharing))
+
+[![Watch the video](https://github.com/hana-afra/ecloset-app/raw/main/imagee.png)](https://drive.google.com/file/d/1Nv-cbTG_EiWGnLlQCqOM_N3WPmZsHlbH/view?usp=sharing)
+
 
 
 # Software Components
